@@ -4,6 +4,10 @@
 &#x270d; You can see all of my works at https://portfolio-pi-orcin.vercel.app/  
 
 ![linkedin](https://user-images.githubusercontent.com/37020406/117369945-8117dd00-ae7a-11eb-89b3-1b5d859eb4f8.png) Know about my experiences https://www.linkedin.com/in/daiki-sugihara-97b7b7150/
+
+## &#x1f4c8; GitHub Stats
+[![Daiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)
 ![](https://img.shields.io/badge/OS-WindowsServer-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)  
@@ -31,11 +35,3 @@
 ![](https://img.shields.io/badge/Other-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Other-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Other-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFA500)
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/DaiSugi01/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/DaiSugi01/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiSugi01&layout=compact&theme=radical" />
-</a>
