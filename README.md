@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daki 👋</h1>
 <h3 align="center">A passionate iOS/backend engineer in Vancouver</h3>
 
-&#x270d; You can see all of my works at https://portfolio-pi-orcin.vercel.app/  
+&#x270d; You can see all of my works at https://www.daikisugihara.com/
 
 ![linkedin](https://user-images.githubusercontent.com/37020406/117369945-8117dd00-ae7a-11eb-89b3-1b5d859eb4f8.png) Know about my experiences https://www.linkedin.com/in/daiki-sugihara-97b7b7150/
 
