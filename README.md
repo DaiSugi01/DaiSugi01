@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/37020406/179347627-6d56ff24-227c-4e8b-a1fb-cf25ac7c3715.png" />
 </p>
 
-<p align="center">A software engineer based in Vancouver. My journey as a software engineer has started from 2016, I had been working for banking internal systems, and I've been working for providing mobile e-sports game platform. I'm quietly confident, naturally curious, and perpetually working on improving my skills. Furthermore, I like to make complicated problems simple and can find and solve them quickly.</p>
-
 <h2 align="center">A passionate software engineer in Vancouver</h3>
+<p align="center">My journey as a software engineer has started from 2016, I had been working for banking internal systems, and I've been working for providing mobile e-sports game platform. I'm quietly confident, naturally curious, and perpetually working on improving my skills. Furthermore, I like to make complicated problems simple and can find and solve them quickly.</p>
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)
