@@ -37,11 +37,11 @@
 ![](https://img.shields.io/badge/Other-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFA500)
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true" alt="ayumitanaka13" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=tokyonight&show_icons=true&count_private=true" alt="Daisugi01" />
 
 <p>Links</p>
 
-👨‍💻&nbsp;All of my projects are available at<br>[https://ayumitanaka.net](https://ayumitanaka.net)<br>
+👨‍💻&nbsp;All of my projects are available at<br>[https://www.daikisugihara.com/](https://www.daikisugihara.com)<br>
 📫&nbsp;How to reach me<br>**daiki.sugihara.dev@gmail.com**<br>
 📄&nbsp;Know about my experiences<br>[https://www.daikisugihara.com/](https://www.daikisugihara.com)
 
