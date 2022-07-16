@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=BB42F6)
 ![](https://img.shields.io/badge/Database-AmazonDynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=BB42F6)  
 
-![](https://img.shields.io/badge/CICD-GitHubActions-informational?style=flat&logo=githubactions&logoColor=white&color=BB42F6)  
+![](https://img.shields.io/badge/CICD-GitHubActions-informational?style=flat&logo=githubactions&logoColor=white&color=FAF628)  
 
 
 ![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FFA500)
