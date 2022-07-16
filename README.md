@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Daki 👋</h1>
-<h3 align="center">A passionate iOS/backend engineer in Vancouver</h3>
+<h1 align="center">Hello, I'm Daiki 👋</h1>
+<h3 align="center">A passionate software engineer in Vancouver</h3>
 
 &#x270d; You can see all of my works at https://www.daikisugihara.com
 
@@ -11,6 +11,7 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)
 ![](https://img.shields.io/badge/OS-WindowsServer-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)  
+
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=E31D6E)  
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=E31D6E)
@@ -18,19 +19,20 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=E31D6E)  
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=E31D6E)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-VB.net-informational?style=flat&logo=.net&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=E31D6E)  
+
 ![](https://img.shields.io/badge/Database-MicrosoftSQLServer-informational?style=flat&logo=microsoft-sqL-server&logoColor=white&color=BB42F6)
 ![](https://img.shields.io/badge/Database-DB2-informational?style=flat&logo=db2&logoColor=white&color=BB42F6)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=BB42F6)
 ![](https://img.shields.io/badge/Database-AmazonDynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=BB42F6)  
-![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)  
+
+![](https://img.shields.io/badge/CICD-GitHubActions-informational?style=flat&logo=githubactions&logoColor=white&color=BB42F6)  
+
+
 ![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Other-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Other-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=FFA500)
