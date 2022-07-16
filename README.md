@@ -1,12 +1,10 @@
-<h1 align="center">Hello, I'm Daiki 👋</h1>
-<h3 align="center">A passionate software engineer in Vancouver</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37020406/179347627-6d56ff24-227c-4e8b-a1fb-cf25ac7c3715.png" />
+</p>
 
-&#x270d; You can see all of my works at https://www.daikisugihara.com
+<p align="center">A software engineer based in Vancouver. My journey as a software engineer has started from 2016, I had been working for banking internal systems, and I've been working for providing mobile e-sports game platform. I'm quietly confident, naturally curious, and perpetually working on improving my skills. Furthermore, I like to make complicated problems simple and can find and solve them quickly.</p>
 
-![linkedin](https://user-images.githubusercontent.com/37020406/117369945-8117dd00-ae7a-11eb-89b3-1b5d859eb4f8.png) Know about my experiences https://www.linkedin.com/in/daiki-sugihara-97b7b7150
-
-## &#x1f4c8; GitHub Stats
-[![Daiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true)
+<h2 align="center">A passionate software engineer in Vancouver</h3>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)
@@ -37,3 +35,14 @@
 ![](https://img.shields.io/badge/Other-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Other-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Other-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFA500)
+
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true" alt="ayumitanaka13" />
+
+<p>Links</p>
+
+👨‍💻&nbsp;All of my projects are available at<br>[https://ayumitanaka.net](https://ayumitanaka.net)<br>
+📫&nbsp;How to reach me<br>**daiki.sugihara.dev@gmail.com**<br>
+📄&nbsp;Know about my experiences<br>[https://www.daikisugihara.com/](https://www.daikisugihara.com)
+
+</div>
