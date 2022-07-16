@@ -41,8 +41,8 @@
 
 <p>Links</p>
 
-👨‍💻&nbsp;All of my projects are available at<br>[https://www.daikisugihara.com/](https://www.daikisugihara.com)<br>
+👨‍💻&nbsp;All of my projects are available at<br>[https://www.daikisugihara.com](https://www.daikisugihara.com)<br>
 📫&nbsp;How to reach me<br>**daiki.sugihara.dev@gmail.com**<br>
-📄&nbsp;Know about my experiences<br>[https://www.daikisugihara.com/](https://www.daikisugihara.com)
+📄&nbsp;Know about my experiences<br>[https://www.daikisugihara.com](https://www.daikisugihara.com)
 
 </div>
