@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)
 ![](https://img.shields.io/badge/OS-WindowsServer-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)  
 
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=E31D6E)  
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=E31D6E)  
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=E31D6E)
