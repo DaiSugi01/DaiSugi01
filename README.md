@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/OS-WindowsServer-informational?style=flat&logo=linux&logoColor=white&color=70A4FC)  
 
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=E31D6E)  
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=E31D6E)
@@ -20,8 +21,6 @@
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-VB.net-informational?style=flat&logo=.net&logoColor=white&color=E31D6E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=E31D6E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=E31D6E)
-![](https://img.shields.io/badge/Code-RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=E31D6E)  
 
 ![](https://img.shields.io/badge/Database-MicrosoftSQLServer-informational?style=flat&logo=microsoft-sqL-server&logoColor=white&color=BB42F6)
 ![](https://img.shields.io/badge/Database-DB2-informational?style=flat&logo=db2&logoColor=white&color=BB42F6)
